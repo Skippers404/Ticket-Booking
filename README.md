@@ -19,17 +19,29 @@
     demand for convenient and efficient booking solutions. With the advent of technology and the internet,
     traditional methods of booking tickets through physical counters have been largely replaced by online platforms.</p>
   
-    <h2>Scope</h2>
+  <h2>Scope</h2>
     
-<p> The initial release of the system will include the online reservation form, database to
+<p>The initial release of the system will include the online reservation form, database to
 process and store reservation information, and an employee Web portal. Installation, configuration, 
 and configuration and support documentation will be included with the initialrelease.
+  <br>
+** Online viewing of reservation information<br>
+ Online viewing of who has what equipment <br>
+ E-mail reminders of upcoming reservations <br>
+ Online cancelation capability<br>
+Allow rescheduling of reservations</p>**    
 
-Scope of Subsequent Releases
-As the business grows, future releases will include: 
--> Online viewing of reservation information
--> Online viewing of who has what equipment 
--> E-mail reminders of upcoming reservations 
--> Online cancelation capability
-->Allow rescheduling of reservations</p>    
+<h1>Problem Statement</h1>
+
+<p>The current ticket booking process for various events and services faces 
+  several challenges that impact user experience and operational efficiency.
+  The main problems that this project aims to address are as folllows.</p>
+  
+  **Inefficiency in Booking Process
+  Security Concerns
+  User Experience Issues
+  System Reliability
+  Fraudulent Activities
+  Scalability and Performance**
+  
   
