@@ -4,8 +4,8 @@
 <h1>Introduction</h1>
 <p>Welcome to the Ticket Booking Platform project! This project aims to create a seamless and efficient 
   system for booking tickets for various events and services. Whether it’s concerts, theater shows, sports events,
-  or travel bookings, our platform will make the process smooth and enjoyable for users.</p>
-  system for booking tickets for various events and services. Whether it’s concerts, theater shows,
+  or travel bookings, our platform will make the process smooth and enjoyable for users.
+  System for booking tickets for various events and services. Whether it’s concerts, theater shows,
   sports events,or travel bookings, our platform will make the process smooth and enjoyable for users.</p>
 
 <h2>Purpose</h2>
@@ -75,6 +75,41 @@ Additional Features includes Filtering, Sorting, Categories.**
 
   <h1>Poject Plan</h1>
 
+  <table>
+  <caption><b>Project Time Line</b></caption>
+  <thead>
+    <tr>
+      <th>Phases</th>
+      <th>Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Initiation</td>
+      <td>Week-1</td>
+    </tr>
+     <tr>
+      <td>Planning</td>
+      <td>2 Week-2</td>
+    </tr>
+     <tr>
+      <td>Development</td>
+      <td>Week-3</td>
+    </tr>
+     <tr>
+      <td>Testing</td>
+      <td>Week-4</td>
+    </tr>
+     <tr>
+      <td>Deployment</td>
+      <td>6 Week-5</td>
+    </tr>
+     <tr>
+      <td>Maintenance</td>
+      <td>Week-6</td>
+    </tr>
+  </tbody>
+</table>
   
 
   <h1>Expected Deliverables</h1>
