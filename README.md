@@ -90,7 +90,7 @@ Additional Features includes Filtering, Sorting, Categories.**
     </tr>
      <tr>
       <td>Planning</td>
-      <td>2 Week-2</td>
+      <td>Week-2</td>
     </tr>
      <tr>
       <td>Development</td>
@@ -102,11 +102,11 @@ Additional Features includes Filtering, Sorting, Categories.**
     </tr>
      <tr>
       <td>Deployment</td>
-      <td>6 Week-5</td>
+      <td>Week-5</td>
     </tr>
      <tr>
       <td>Maintenance</td>
-      <td>Week-6</td>
+      <td>Ongoing</td>
     </tr>
   </tbody>
 </table>
