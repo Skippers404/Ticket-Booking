@@ -46,7 +46,7 @@ Allow rescheduling of reservations**
 
   <h1>Objectives</h1>
 
-  <p>TThe primary objective of a ticket booking platform is to facilitate the selection, reservation,
+  <p>The primary objective of a ticket booking platform is to facilitate the selection, reservation,
     and purchase of tickets for various events, such as movies, concerts, and travel. 
     Such platforms provide users with comprehensive information about show schedules, available seats,
     and ticket prices, allowing them to book tickets seamlessly online. Additionally, these systems 
@@ -55,7 +55,23 @@ Allow rescheduling of reservations**
     the management of inventory, bookings, and ticket reservations, improving operational efficiency and customer satisfaction</p>
 
   <h1>Methodology</h1>
+  Gather sample car data, including make, model, year, price, engine type, and images.
 
+<h2>Tools/Technologies</h2>
+
+**Frontend**: React for building a dynamic user interface.
+**Backend**: Node.js with Express for server-side logic and APIs.
+**Database**: MongoDB for data storage.
+**Additional Tools**: Postman (API testing), Git/GitHub (version control), Cloud Services (optional for deployment).
+
+<h2>Implementation Steps</h2>
+<p>
+Set up the MERN stack development environment.
+Design and implement the MongoDB database schema.
+Create backend RESTful APIs using Node.js and Express.
+Develop a responsive frontend with React to fetch and display data.
+Add features like filtering, sorting, searching, and car comparisons.
+Test and debug to ensure functionality and performance.</p>
 
 
   <h1>Poject Plan</h1>
