@@ -1,6 +1,5 @@
 # Ticket-Booking
 
-
 <h1>Introduction</h1>
 <p>Welcome to the Ticket Booking Platform project! This project aims to create a seamless and efficient 
   system for booking tickets for various events and services. Whether it’s concerts, theater shows, sports events,
@@ -109,26 +108,13 @@ Additional Features includes Filtering, Sorting, Categories.**
     </tr>
   </tbody>
 </table>
-  
-
-  <h1>Expected Deliverables</h1>
-
-
-
-  <h1>Evaluation Criteria</h1>
-
-
-
-  <h1>Evaluation Criteria</h1>
-
-
-
-  <h1>Submission Criteria</h1>
-
-
-
   <h1>Refrences</h1>
 
+**W3Schools<br>
+StackOverflow<br>
+GeekforGeeks<br>
+BootStrap<br>
+Youtube***
   
   
   
