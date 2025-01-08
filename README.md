@@ -62,17 +62,15 @@ Allow rescheduling of reservations**
 **Frontend**: React for building a dynamic user interface.<br>
 **Backend**: Node.js with Express for server-side logic and APIs.<br>
 **Database**: MongoDB for data storage.<br>
-**Additional Tools**: Postman (API testing), Git/GitHub (version control), Cloud Services (optional for deployment).
+**Additional Tools**: Postman, Git/GitHub, Cloud Services (optional for deployment).
 
 <h2>Implementation Steps</h2>
 <br><p>
-Set up the MERN stack development environment.<br>
-Design and implement the MongoDB database schema.<br>
-Create backend RESTful APIs using Node.js and Express.<br>
-Develop a responsive frontend with React to fetch and display data.<br>
-Add features like filtering, sorting, searching, and car comparisons.<br>
-Test and debug to ensure functionality and performance.</p>
-
+Using MERN Stack Technologies for Development Environment.<br>
+Design and Implement the MongoDB(NoSQL) Database Schema.<br>
+Developing Backend REST APIs using Node.js and Express.<br>
+Developing Frontend with React for Dynamic Responses.<br>
+Additional Features includes Filtering, Sorting, Categories.</p>
 
   <h1>Poject Plan</h1>
 
