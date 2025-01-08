@@ -76,7 +76,7 @@ Additional Features includes Filtering, Sorting, Categories.**
   <h1>Poject Plan</h1>
 
   <table>
-  <caption><b>Project Time Line</b></caption>
+  <caption>Project Time Line</caption>
   <thead>
     <tr>
       <th>Phases</th>
