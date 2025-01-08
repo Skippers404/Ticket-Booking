@@ -92,15 +92,15 @@ Additional Features includes Filtering, Sorting, Categories.**
     </tr>
      <tr>
       <td>Development</td>
-      <td>Week-3</td>
+      <td>Week-3/4</td>
     </tr>
      <tr>
       <td>Testing</td>
-      <td>Week-4</td>
+      <td>Week-5</td>
     </tr>
      <tr>
       <td>Deployment</td>
-      <td>Week-5</td>
+      <td>Week-6</td>
     </tr>
      <tr>
       <td>Maintenance</td>
