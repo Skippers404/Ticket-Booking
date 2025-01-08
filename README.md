@@ -25,7 +25,6 @@
 process and store reservation information, and an employee Web portal. Installation, configuration, 
 and configuration and support documentation will be included with the initialrelease.</p>
 <br>
- 
  **Online viewing of reservation information<br>
  Online viewing of who has what equipment <br>
  E-mail reminders of upcoming reservations <br>
@@ -37,7 +36,6 @@ Allow rescheduling of reservations**
 <p>The current ticket booking process for various events and services faces 
   several challenges that impact user experience and operational efficiency.
   The main problems that this project aims to address are as folllows.</p><br>
-  
   **Inefficiency in Booking Process<br>
   Security Concerns<br>
   User Experience Issues<br>
