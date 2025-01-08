@@ -46,7 +46,13 @@ Allow rescheduling of reservations**
 
   <h1>Objectives</h1>
 
-
+  <p>TThe primary objective of a ticket booking platform is to facilitate the selection, reservation,
+    and purchase of tickets for various events, such as movies, concerts, and travel. 
+    Such platforms provide users with comprehensive information about show schedules, available seats,
+    and ticket prices, allowing them to book tickets seamlessly online. Additionally, these systems 
+    aim to enhance user experience by offering features like loyalty programs, guest checkout options, 
+    and electronic ticket generation for convenience. For administrators, the platform streamlines 
+    the management of inventory, bookings, and ticket reservations, improving operational efficiency and customer satisfaction</p>
 
   <h1>Methodology</h1>
 
