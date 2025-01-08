@@ -23,9 +23,10 @@
     
 <p>The initial release of the system will include the online reservation form, database to
 process and store reservation information, and an employee Web portal. Installation, configuration, 
-and configuration and support documentation will be included with the initialrelease.
-  <br>
-** Online viewing of reservation information<br>
+and configuration and support documentation will be included with the initialrelease.</p>
+<br>
+  **<p>
+ Online viewing of reservation information<br>
  Online viewing of who has what equipment <br>
  E-mail reminders of upcoming reservations <br>
  Online cancelation capability<br>
@@ -35,13 +36,13 @@ Allow rescheduling of reservations</p>**
 
 <p>The current ticket booking process for various events and services faces 
   several challenges that impact user experience and operational efficiency.
-  The main problems that this project aims to address are as folllows.</p>
+  The main problems that this project aims to address are as folllows.</p><br>
   
-  **Inefficiency in Booking Process
-  Security Concerns
-  User Experience Issues
-  System Reliability
-  Fraudulent Activities
+  **Inefficiency in Booking Process<br>
+  Security Concerns<br>
+  User Experience Issues<br>
+  System Reliability<br>
+  Fraudulent Activities<br>
   Scalability and Performance**
   
   
