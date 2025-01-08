@@ -25,11 +25,11 @@
 process and store reservation information, and an employee Web portal. Installation, configuration, 
 and configuration and support documentation will be included with the initialrelease.</p>
 <br>
-  **Online viewing of reservation information<br>
+ <p>**Online viewing of reservation information<br>
  Online viewing of who has what equipment <br>
  E-mail reminders of upcoming reservations <br>
  Online cancelation capability<br>
-Allow rescheduling of reservations**    
+Allow rescheduling of reservations** </p>
 
 <h1>Problem Statement</h1>
 
