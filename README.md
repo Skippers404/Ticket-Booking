@@ -24,10 +24,10 @@
 process and store reservation information, and an employee Web portal. Installation, configuration, 
 and configuration and support documentation will be included with the initialrelease.</p><br>
 
- **Online viewing of reservation information<br>
- Online viewing of who has what equipment <br>
+ **User Registration and Authentication
+ Online viewing of reservation information<br>
  E-mail reminders of upcoming reservations <br>
- Online cancelation capability<br>
+ Online Cancelation capability<br>
 Allow rescheduling of reservations** 
 
 <h1>Problem Statement</h1>
@@ -108,7 +108,7 @@ Additional Features includes Filtering, Sorting, Categories.**
     </tr>
   </tbody>
 </table>
-  <h1>Refrences</h1>
+  <h1>References</h1>
 
 **W3Schools<br>
 StackOverflow<br>
