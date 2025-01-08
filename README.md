@@ -58,19 +58,19 @@ Allow rescheduling of reservations**
   Gather sample car data, including make, model, year, price, engine type, and images.
 
 <h2>Tools/Technologies</h2>
-
-**Frontend**: React for building a dynamic user interface.
-**Backend**: Node.js with Express for server-side logic and APIs.
-**Database**: MongoDB for data storage.
+<br>
+**Frontend**: React for building a dynamic user interface.<br>
+**Backend**: Node.js with Express for server-side logic and APIs.<br>
+**Database**: MongoDB for data storage.<br>
 **Additional Tools**: Postman (API testing), Git/GitHub (version control), Cloud Services (optional for deployment).
 
 <h2>Implementation Steps</h2>
-<p>
-Set up the MERN stack development environment.
-Design and implement the MongoDB database schema.
-Create backend RESTful APIs using Node.js and Express.
-Develop a responsive frontend with React to fetch and display data.
-Add features like filtering, sorting, searching, and car comparisons.
+<br><p>
+Set up the MERN stack development environment.<br>
+Design and implement the MongoDB database schema.<br>
+Create backend RESTful APIs using Node.js and Express.<br>
+Develop a responsive frontend with React to fetch and display data.<br>
+Add features like filtering, sorting, searching, and car comparisons.<br>
 Test and debug to ensure functionality and performance.</p>
 
 
