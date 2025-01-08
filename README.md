@@ -65,12 +65,13 @@ Allow rescheduling of reservations**
 **Additional Tools**: Postman, Git/GitHub, Cloud Services (optional for deployment).
 
 <h2>Implementation Steps</h2>
-<br><p>
-Using MERN Stack Technologies for Development Environment.<br>
+<br>
+
+**Using MERN Stack Technologies for Development Environment.<br>
 Design and Implement the MongoDB(NoSQL) Database Schema.<br>
 Developing Backend REST APIs using Node.js and Express.<br>
 Developing Frontend with React for Dynamic Responses.<br>
-Additional Features includes Filtering, Sorting, Categories.</p>
+Additional Features includes Filtering, Sorting, Categories.**
 
   <h1>Poject Plan</h1>
 
