@@ -55,10 +55,10 @@ Allow rescheduling of reservations**
     the management of inventory, bookings, and ticket reservations, improving operational efficiency and customer satisfaction</p>
 
   <h1>Methodology</h1>
-  Gather sample car data, including make, model, year, price, engine type, and images.
+  The methodology section outlines the systematic process followed during the development of the Ticket Booking System.
+  This section will cover the various phases, tools, and techniques employed to ensure the successful completion of the project
+<h2>Tools/Technologies</h2><br>
 
-<h2>Tools/Technologies</h2>
-<br>
 **Frontend**: React for building a dynamic user interface.<br>
 **Backend**: Node.js with Express for server-side logic and APIs.<br>
 **Database**: MongoDB for data storage.<br>
