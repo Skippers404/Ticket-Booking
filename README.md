@@ -74,9 +74,8 @@ Developing Frontend with React for Dynamic Responses.<br>
 Additional Features includes Filtering, Sorting, Categories.**
 
   <h1>Poject Plan</h1>
-
+<h2>Project TimeLines</h2>
   <table>
-  <b><caption>Project Time Lines</caption></b>
   <thead>
     <tr>
       <th>Phases</th>
